@@ -1,0 +1,6 @@
+site_name: Token Swap CLR-ERC20 to BNB
+
+nav:
+- Home: index.md
+
+theme: readthedocs
